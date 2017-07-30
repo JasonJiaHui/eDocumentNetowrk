@@ -4,12 +4,16 @@ This project is about a basic social network system(socket TCP) mainly for readi
 
 
 This system has to mode:
+
 =====mode PULL:
+
     Get the infomation only when client send the request.
 =====mode PUSH:
+
     Push the infomation of changes to subscribers automatically. 
     
 How to use:
+
    Please see ass1.pdf for more detail.
    
 Environmennt:
